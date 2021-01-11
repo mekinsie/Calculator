@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Calculator_
 
 #### _{Brief description of application}_
 
